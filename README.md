@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
-<h1 align="center">Hey 😊, I'm Gichuhi</h1>
+<h1 align="center">Hello, I'm Gichuhi</h1>
 <h3 align="center">Byte me 😹</h3>
 
 - 📫 How to reach me **tashakuigichuhi@gmail.com**
