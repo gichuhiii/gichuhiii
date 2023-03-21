@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" >
+<img align="center" alt="Coding" src="[https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif](https://images.app.goo.gl/Ym41uT6W83FpWpgn7)" >
 <h1 align="center">Hello, I'm Gichuhi</h1>
 <h3 align="center">Byte me 😹</h3>
 
