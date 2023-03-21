@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="https://images.app.goo.gl/Ym41uT6W83FpWpgn7" >
+<img align="center" alt="Coding" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" >
 <h1 align="center">Hello, I'm Gichuhi</h1>
 <h3 align="center">Byte me 😹</h3>
 
