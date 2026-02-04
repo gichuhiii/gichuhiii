@@ -99,6 +99,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
       alt="PyTorch" width="40" height="40" />
   </a>
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg"
+      alt="Streamlit" width="40" height="40" />
+  </a>
 </p>
 
 <h3 align="left">Cloud & AWS:</h3>
